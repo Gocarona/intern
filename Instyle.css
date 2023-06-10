@@ -65,7 +65,7 @@
     justify-content: center;
 
 }
-.box .list .content h4{
+.box .list .content h5{
     line-height: 1.2rem;
     font-weight: 600;
     transition: 0.5s;
@@ -74,7 +74,7 @@
     font-size: 0.75em;
     transition: 0.5s;
 }
-.box .list .content h4,.box .list .content p{
+.box .list .content h5,.box .list .content p{
     color: #fff;
 }
 
