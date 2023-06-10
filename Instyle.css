@@ -20,6 +20,8 @@
 .box h3{
     margin-bottom: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.2rem;
+    font-weight: 600;
 
 }
 .box .list{
