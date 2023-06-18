@@ -36,7 +36,7 @@
     color: #008000;
 }
 .fab {
-    color: #ffffff;
+    color: #000000;
 }
 /* footer styling */
 #footer {
@@ -49,13 +49,19 @@
     padding-top: 0.5rem;
 }
 
-
-
-
-
-
-
-
+.button5 {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
 
 html{
     font-family: 'Roboto',sans-serif;
@@ -63,14 +69,6 @@ html{
     box-sizing: border-box;
 }
 
-/* section{
-    width: 100%;
-    height: 100vh;
-    background-color: #3c4053;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
 .containers{
     width: 98%;
     height: 550px;
