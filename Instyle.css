@@ -39,7 +39,7 @@
     overflow: hidden;
 }
 .box .list:hover{
-    background: #161;
+    background: #fff;
     box-shadow: -15px 30px 50px rgba(0, 0, 0,0.5);
     transform: translateX(20px);
     z-index: 1000;
@@ -78,7 +78,7 @@
     transition: 0.5s;
 }
 .box .list .content h5,.box .list .content p{
-    color: #fff;
+    color: navy;
 }
 
 /* about section image css */
@@ -100,7 +100,7 @@
     color: #008000;
 }
 .fab {
-    color: #ffffff;
+    color: #000;
 }
 /* footer styling */
 #footer {
